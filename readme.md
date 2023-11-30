@@ -1,4 +1,4 @@
-#OPTIMIZY V1.1
+# OPTIMIZY V1.1
 you might think the exe is sketchy, well i would too!
 optimizer to run, you would need to make it a .exe because it needs
 admin on your computer to execute commands, for example to make your internet 
