@@ -1,4 +1,6 @@
-# OPTIMIZY V1.2 🥳🥳
+# OPTIMIZY V1.3 🥳🥳
+# NEW EXTERNAL FOLDER FOR GAMES LIKE ROBLOX, FORTNITE AND MORE!
+
 you might think the exe is sketchy, well i would too!
 optimizer to run, you would need to make it a .exe because it needs
 admin on your computer to execute commands, for example to make your internet 
