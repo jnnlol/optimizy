@@ -1,0 +1,3 @@
+JUST USE OPTIMIZY
+
+But change your primary dns server to 8.8.8.8 and secondary to 8.8.4.4
