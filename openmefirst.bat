@@ -1,0 +1,1 @@
+python -m PyInstaller C:\Users\noahm\Desktop\optimizy\optimization.py --onefile
